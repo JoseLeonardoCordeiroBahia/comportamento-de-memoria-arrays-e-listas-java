@@ -44,7 +44,7 @@ public class Alturas {
 		}
 		
 		alturaMedia = somaDasAlturas / n;
-		percentualDeMenores = ((double) quantidadeDeMenores / n) * 100.0;
+		percentualDeMenores = quantidadeDeMenores * 100.0 / n;
 		
 		System.out.println();
 		System.out.printf("Altura média: %.2f\n", alturaMedia);
