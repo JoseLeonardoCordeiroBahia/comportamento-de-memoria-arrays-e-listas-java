@@ -1,4 +1,4 @@
-package _7_matrizes.exemplo;
+package _7_matrizes._1_exemplo;
 
 import java.util.Scanner;
 
